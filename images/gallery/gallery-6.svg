@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2b2f33"/>
+      <stop offset="100%" stop-color="#14171a"/>
+    </linearGradient>
+    <pattern id="lines" width="40" height="40" patternTransform="rotate(45)" patternUnits="userSpaceOnUse">
+      <line x1="0" y1="0" x2="0" y2="40" stroke="#ffffff" stroke-opacity="0.04" stroke-width="10"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="900" fill="url(#g)"/>
+  <rect width="900" height="900" fill="url(#lines)"/>
+  <text x="50%" y="48%" text-anchor="middle" font-family="Arial, sans-serif" font-size="54" fill="#E8873D" font-weight="700" letter-spacing="2">JX INOXIDABLES</text>
+  <text x="50%" y="58%" text-anchor="middle" font-family="Arial, sans-serif" font-size="31" fill="#9aa1a8">Proyecto 6 — reemplazar</text>
+</svg>
